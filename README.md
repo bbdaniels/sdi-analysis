@@ -7,7 +7,7 @@ The set of do-files provided here does the following:
 - Generates item response curves for each diagnostic item included in the item response theory algorithm.
 - Produces figures that compare provider knowledge and performance across and within countries to populate presentations of the cross-country comparison and individual country profiles.
 
-This material also includes the references used to determine whether providers correctly treated the given condition. In addition, the resulting resulting cross-country comparison and country profiles are available in the "outputs/presentations" folder.
+This material also includes the references used to determine whether providers correctly treated the conditions in the vignettes. In addition, the resulting cross-country comparison and country profiles are available in the "outputs/presentations" folder.
 
 The analysis relies on data available here: [https://github.com/worldbank/SDI-Health](https://github.com/worldbank/SDI-Health)
 
